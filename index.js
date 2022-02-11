@@ -1,18 +1,43 @@
-// aslaksaksaks
-/* sasjaoosaskoakoska
+//false
+//false
+//true
+//boolean
+let primeiroNumero = 5
+let segundoNumero = 6
 
-*/
-//console.log(" olá mundo ")
-//const idade = 22
-//console.log( idade )
+const soma = primeiroNumero + segundoNumero
 
-const primeiroNome = "jonatha"
-const sobrenome = "Pereira"
-const idade = 22
-const souestudante = true
-console.log( primeiroNome , sobrenome , idade , souestudante )
-const nomeDoUsuario = prompt ( "qual seu nome ?")
-const idadeDoUsuario = prompt ( "qual sua idade ?")
-console.log(typeof nomeDoUsuario)
-console.log( typeof idadeDoUsuario)
-const 22 = Number(22)
+console.log(soma)
+56
+//se retirar o prompt, a soma sera feita
+
+//exercicio de codigo
+const jonatha = 22
+console.log(jonatha)
+const idadeamigo = 21
+console.log(idadeamigo)
+console.log(jonatha>idadeamigo)
+//true//
+const par = 2
+const restodadivisao = 2 % 2
+console.log(restodadivisao) //0
+
+const idadeanos = 22
+const idademeses = 264
+const idadehoras = 190080
+
+console.log(idadeanos)
+console.log(idademeses)
+console.log(idadehoras)
+
+//4
+
+const primeironumero = 4
+const segundonumero = 2
+
+console.log(primeironumero>segundonumero) //true
+console.log(segundonumero>primeironumero) //false
+console.log(primeironumero/segundonumero) // sim
+console.log(segundonumero/primeironumero) // sim
+
+
